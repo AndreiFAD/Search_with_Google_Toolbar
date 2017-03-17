@@ -1,5 +1,5 @@
 # Search_with_Google_Toolbar
-Search with Google Toolbar top 10 word combinations
+Search Google Suggest top 10 word combinations
 
 
 static String myWordsCombinations = "iphone,iphone price"; //here words separated with ','
